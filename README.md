@@ -1,12 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6,C084FC&height=220&section=header&text=mikaela.nicole.cando&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=~/ui-ux-designer%20~/web-developer%20~/open-to-opportunities&descAlignY=60&descSize=14&fontFamily=monospace)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I+design%2C+build%2C+and+ship+%F0%9F%9A%80;UI%2FUX+Designer+%26+Web+Developer;Open+to+opportunities+%E2%9C%A8;Turning+ideas+into+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I+design%2C+build%2C+and+ship;UI%2FUX+Designer+%26+Web+Developer;Open+to+opportunities;Turning+ideas+into+experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +10,9 @@
 const mikaela = {
   name     : "Mikaela Nicole Cando",
   role     : ["UI/UX Designer", "Web Developer"],
-  status   : "Open to opportunities 💜",
+  status   : "Open to opportunities",
   motto    : "Building the future, one line at a time.",
-  based_in : "Philippines 🇵🇭",
+  based_in : "Philippines",
 };
 ```
 
@@ -52,7 +46,7 @@ that are not only beautiful — but also effective.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,notion,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,vscodehtml,css,js,java,php,cs,mysql,notion,github,vscode,azure,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -69,22 +63,22 @@ that are not only beautiful — but also effective.
 
 ## `> achievements --table`
 
-| 🏆 Achievement | 🏷️ Category | 📋 Description | 🔖 Issuer | ✅ Status |
+| ***Achievement*** | ***Category*** | ***Description*** | ***Issuer*** | ***Status*** |
 |:---|:---:|:---|:---:|:---:|
-| 🎓 **BS Information Technology** | `Education` | Graduated with Latin Honors — *Cum Laude* distinction | University | ![done](https://img.shields.io/badge/Completed-4C1D95?style=flat-square&logoColor=white) |
-| 🪟 **Microsoft Certified** | `Certification` | Microsoft Office Specialist — validated technical proficiency | Microsoft | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
-| 📝 **Certiport Certified** | `Certification` | Industry-recognized credential via Certiport testing platform | Certiport | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
-| 🎨 **Canva Certified** | `Certification` | Official Canva Design certification for visual communication | Canva | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
-| 🌐 **Cisco Certified** | `Certification` | Cisco Networking Academy — networking fundamentals & IT essentials | Cisco | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
+| **BS Information Technology** | `Education` | Graduated with Latin Honors — *Cum Laude* distinction | University | ![done](https://img.shields.io/badge/Completed-4C1D95?style=flat-square) |
+| **Microsoft Certified** | `Certification` | Microsoft Office Specialist — validated technical proficiency | Microsoft | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
+| **Certiport Certified** | `Certification` | Industry-recognized credential via Certiport testing platform | Certiport | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
+| **Canva Certified** | `Certification` | Official Canva Design certification for visual communication | Canva | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
+| **Cisco Certified** | `Certification` | Cisco Networking Academy — networking fundamentals & IT essentials | Cisco | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
 
 ---
 
 ## `> projects --featured`
 
-| 📁 Project | 🛠️ Stack | 📄 Description | 🏷️ Type |
+| ***Project*** | ***Stack*** | ***Description*** | ***Type*** |
 |:---|:---|:---|:---:|
-| 🚀 **iSTART** | UI/UX, ERD, Docs | Complete design & documentation system for a government-affiliated initiative | `DOST` |
-| 🎓 **COACH** | Full Stack, DB, Frontend | Mentoring platform with backend logic, database structure & research docs | `Capstone` |
+| **iSTART** | UI/UX, ERD, Docs | Complete design & documentation system for a government-affiliated initiative | `DOST` |
+| **COACH** | Full Stack, DB, Frontend | Mentoring platform with backend logic, database structure & research docs | `Capstone` |
 
 ---
 
@@ -92,11 +86,17 @@ that are not only beautiful — but also effective.
 
 <div align="center">
 
-![Mikaela's Stats](https://github-readme-stats.vercel.app/api?username=mntcnd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=9B59B6&text_color=C084FC&ring_color=7C3AED)
+<a href="https://github.com/mntcnd">
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=mntcnd&cc=0D0D1A&tc=A855F7&ic=C084FC&bc=0D0D1A" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mntcnd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C084FC)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mntcnd&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=9B59B6)](https://git.io/streak-stats)
+[![mntcnd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mntcnd&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=mntcnd&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -107,9 +107,9 @@ that are not only beautiful — but also effective.
 ```
 > "I'm always learning, growing, and building
    better solutions for the future."
-                                  — Mikaela ♡
+                                  — Mikaela
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6,C084FC&height=120&section=footer)
+<br/>
 
 </div>
