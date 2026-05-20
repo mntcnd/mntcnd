@@ -69,13 +69,13 @@ that are not only beautiful — but also effective.
 
 ## `> achievements --table`
 
-| 🏆 Achievement | 📋 Details | 📅 Status |
-|:---|:---|:---:|
-| 🎓 **BS Information Technology** | Graduate — *Cum Laude* | ✅ Completed |
-| 🪟 **Microsoft Certified** | Microsoft Office Specialist | ✅ Certified |
-| 📝 **Certiport Certified** | Certiport Certification | ✅ Certified |
-| 🎨 **Canva Certified** | Canva Design Certification | ✅ Certified |
-| 🌐 **Cisco Certified** | Cisco Networking Academy | ✅ Certified |
+| 🏆 Achievement | 🏷️ Category | 📋 Description | 🔖 Issuer | ✅ Status |
+|:---|:---:|:---|:---:|:---:|
+| 🎓 **BS Information Technology** | `Education` | Graduated with Latin Honors — *Cum Laude* distinction | University | ![done](https://img.shields.io/badge/Completed-4C1D95?style=flat-square&logoColor=white) |
+| 🪟 **Microsoft Certified** | `Certification` | Microsoft Office Specialist — validated technical proficiency | Microsoft | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
+| 📝 **Certiport Certified** | `Certification` | Industry-recognized credential via Certiport testing platform | Certiport | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
+| 🎨 **Canva Certified** | `Certification` | Official Canva Design certification for visual communication | Canva | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
+| 🌐 **Cisco Certified** | `Certification` | Cisco Networking Academy — networking fundamentals & IT essentials | Cisco | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square&logoColor=white) |
 
 ---
 
