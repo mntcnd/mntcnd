@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I+design%2C+build%2C+and+ship;UI%2FUX+Designer+%26+Web+Developer;Open+to+opportunities;Turning+ideas+into+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mikaela+Nicole+Cando+%F0%9F%91%8B;and+yes%2C+I+can+do+a+lot+%E2%9C%A8;I+design+with+purpose+%F0%9F%8E%A8;I+build+with+logic+%F0%9F%92%BB;I+deliver+results+%F0%9F%9A%80;UI%2FUX+Designer+%26+Full+Stack+Developer;available+for+work+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,22 +42,14 @@ that are not only beautiful — but also effective.
 
 ---
 
-## `> skills --list`
+## `> skills/tools --list`
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,vscode,html,css,js,java,php,cs,mysql,notion,github,vscode,azure,&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
-[![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](https://framer.com)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://microsoft.com)
-[![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
-[![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)](https://capcut.com)
-
-</div>
+| ***Category*** | ***Tools*** | ***Stack*** | ***Focus*** |
+|:---:|:---|:---:|:---:|
+| **Languages** | [![Languages](https://skillicons.dev/icons?i=html,,css,,js,,java,,php,,cs,,mysql&theme=dark)](https://skillicons.dev) | `Frontend / Backend` | *Web Development* |
+| **Dev Tools** | [![Dev Tools](https://skillicons.dev/icons?i=visualstudio,,vscode,,github,,azure&theme=dark)](https://skillicons.dev) | `IDE / DevOps` | *Development* |
+| **Design** | [![Design](https://skillicons.dev/icons?i=figma,,notion,&theme=dark)](https://skillicons.dev) ![canva](https://www.readmecodegen.com/api/social-icon?name=canva&size=46&bg=%23374151&link=) | `UI / UX` | *Design & Docs* |
+| **Productivity** | ![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&bg=gradient-dark&color=%233b82f6) [![Languages](https://skillicons.dev/icons?i=htmlhtmll&theme=dark)](https://skillicons.dev)  ![google](https://www.readmecodegen.com/api/social-icon?name=google&size=46&bg=%23374151&link=&color=%2310b981) | `Office / Workspace` | *Productivity* |
 
 ---
 
@@ -70,15 +62,6 @@ that are not only beautiful — but also effective.
 | **Certiport Certified** | `Certification` | Industry-recognized credential via Certiport testing platform | Certiport | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
 | **Canva Certified** | `Certification` | Official Canva Design certification for visual communication | Canva | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
 | **Cisco Certified** | `Certification` | Cisco Networking Academy — networking fundamentals & IT essentials | Cisco | ![done](https://img.shields.io/badge/Certified-6C3DC8?style=flat-square) |
-
----
-
-## `> projects --featured`
-
-| ***Project*** | ***Stack*** | ***Description*** | ***Type*** |
-|:---|:---|:---|:---:|
-| **iSTART** | UI/UX, ERD, Docs | Complete design & documentation system for a government-affiliated initiative | `DOST` |
-| **COACH** | Full Stack, DB, Frontend | Mentoring platform with backend logic, database structure & research docs | `Capstone` |
 
 ---
 
