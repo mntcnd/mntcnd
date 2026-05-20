@@ -48,8 +48,8 @@ that are not only beautiful — but also effective.
 |:---:|:---|:---:|:---:|
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,,css,,js,,java,,php,,cs,,mysql&theme=dark)](https://skillicons.dev) | `Frontend / Backend` | *Web Development* |
 | **Dev Tools** | [![Dev Tools](https://skillicons.dev/icons?i=visualstudio,,vscode,,github,,azure,,,,,,&theme=dark)](https://skillicons.dev) | `IDE / DevOps` | *Development* |
-| **Design** | ![canva](https://www.readmecodegen.com/api/social-icon?name=canva&size=46&bg=%23374151&link=) [![Design](https://skillicons.dev/icons?i=,figma,,notion,&theme=dark)](https://skillicons.dev) | `UI / UX` | *Design & Docs* |
-| **Productivity** | ![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&bg=gradient-dark&color=%233b82f6) [![Languages](https://skillicons.dev/icons?i=htmlhtmll&theme=dark)](https://skillicons.dev)  ![google](https://www.readmecodegen.com/api/social-icon?name=google&size=46&bg=%23374151&link=&color=%2310b981) | `Office / Workspace` | *Productivity* |
+| **Design** | ![canva](https://www.readmecodegen.com/api/social-icon?name=canva&size=24&bg=%23374151&) &nbsp; [![Design](https://skillicons.dev/icons?i=figma,,,,,,,,,&theme=dark)](https://skillicons.dev)| `UI / UX` | *Design & Docs* |
+| **Productivity** | ![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&size=18&bg=%23374151&link=) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![google](https://www.readmecodegen.com/api/social-icon?name=google&size=18&bg=%23374151&link=&color=%2310b981) | `Office / Workspace` | *Productivity* |
 
 ---
 
