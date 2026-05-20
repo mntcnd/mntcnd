@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6&height=200&section=header&text=mikaela.nicole.cando&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=~/github/profile&descAlignY=60&descSize=16&fontFamily=monospace)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6,C084FC&height=220&section=header&text=mikaela.nicole.cando&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=~/ui-ux-designer%20~/web-developer%20~/open-to-opportunities&descAlignY=60&descSize=14&fontFamily=monospace)
 
 </div>
 
@@ -50,27 +50,12 @@ that are not only beautiful — but also effective.
 
 ## `> skills --list`
 
-### 🎨 design_tools/
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,notion&theme=dark)](https://skillicons.dev)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-
-</div>
-
-### 💻 web_dev/
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 📊 productivity/
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
@@ -78,22 +63,32 @@ that are not only beautiful — but also effective.
 
 ---
 
+## `> achievements --table`
+
+<div align="center">
+
+| 🏆 Achievement | 📋 Details | 📅 Status |
+|:---|:---|:---:|
+| 🎓 **BS Information Technology** | Graduate — *Cum Laude* | ✅ Completed |
+| 🪟 **Microsoft Certified** | Microsoft Office Specialist | ✅ Certified |
+| 📝 **Certiport Certified** | Certiport Certification | ✅ Certified |
+| 🎨 **Canva Certified** | Canva Design Certification | ✅ Certified |
+| 🌐 **Cisco Certified** | Cisco Networking Academy | ✅ Certified |
+
+</div>
+
+---
+
 ## `> projects --featured`
 
-```
-📁 ./projects
-├── 📂 iSTART
-│   ├── type     : DOST Project
-│   ├── stack    : UI/UX Design, Database ERD, Technical Docs
-│   └── desc     : A complete design & documentation system
-│                  for a government-affiliated initiative.
-│
-└── 📂 COACH
-    ├── type     : Capstone Project
-    ├── stack    : Full Stack, Backend, Database, Frontend
-    └── desc     : A mentoring platform with backend logic,
-                   database structure & research documentation.
-```
+<div align="center">
+
+| 📁 Project | 🛠️ Stack | 📄 Description | 🏷️ Type |
+|:---|:---|:---|:---:|
+| 🚀 **iSTART** | UI/UX, ERD, Docs | Complete design & documentation system for a government-affiliated initiative | `DOST` |
+| 🎓 **COACH** | Full Stack, DB, Frontend | Mentoring platform with backend logic, database structure & research docs | `Capstone` |
+
+</div>
 
 ---
 
@@ -119,6 +114,6 @@ that are not only beautiful — but also effective.
                                   — Mikaela ♡
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6C3DC8,9B59B6,C084FC&height=120&section=footer)
 
 </div>
