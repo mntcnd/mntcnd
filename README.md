@@ -65,28 +65,6 @@ I blend creativity with logic to deliver digital solutions that are not only bea
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🚀 iSTART
-> **UI/UX Design, Database ERD, and Technical Documentation** for a DOST-related system.
-
-A complete design and documentation project developed to support a government-affiliated initiative. Covers user flow design, system architecture diagrams, and detailed technical documentation.
-
-`UI/UX` `Database Design` `DOST Project` `Documentation`
-
----
-
-### 🎓 COACH
-> A **mentoring platform** built as my capstone project.
-
-Full-stack capstone project featuring backend logic, database structure, frontend implementation, and thorough research documentation.
-
-`Capstone` `Mentoring Platform` `Full Stack` `Research`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
