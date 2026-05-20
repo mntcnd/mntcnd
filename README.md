@@ -46,7 +46,7 @@ that are not only beautiful — but also effective.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,vscodehtml,css,js,java,php,cs,mysql,notion,github,vscode,azure,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,vscode,html,css,js,java,php,cs,mysql,notion,github,vscode,azure,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
