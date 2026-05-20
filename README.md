@@ -21,7 +21,7 @@ const mikaela = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/─%20email-6C3DC8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mntcando@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/─%20linkedin-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkncnd)
+[![LinkedIn](https://img.shields.io/badge/─%20linkedin-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mntcando)
 [![Portfolio](https://img.shields.io/badge/─%20portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)]([https://YOUR_PORTFOLIO](https://mkncando.framer.website/))
 [![GitHub](https://img.shields.io/badge/─%20github-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mntcnd)
 
