@@ -27,3 +27,5 @@
 > Editing visual and multimedia content
 > Solving real-world problems with code
 > Status: Ready to build something amazing.
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cs,github,figma,vscode&theme=dark" /> </p> <p align="center"> 🖌️ Canva &nbsp;&nbsp;•&nbsp;&nbsp; 🎬 CapCut &nbsp;&nbsp;•&nbsp;&nbsp; 📊 Microsoft Apps &nbsp;&nbsp;•&nbsp;&nbsp; ☁️ Google Apps </p>
