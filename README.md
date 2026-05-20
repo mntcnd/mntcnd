@@ -52,20 +52,22 @@ that are not only beautiful — but also effective.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,notion&theme=dark)](https://skillicons.dev)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,notion,github,vscode&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
+[![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](https://framer.com)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://microsoft.com)
+[![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+[![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)](https://capcut.com)
 
 </div>
 
 ---
 
 ## `> achievements --table`
-
-<div align="center">
 
 | 🏆 Achievement | 📋 Details | 📅 Status |
 |:---|:---|:---:|
@@ -75,20 +77,14 @@ that are not only beautiful — but also effective.
 | 🎨 **Canva Certified** | Canva Design Certification | ✅ Certified |
 | 🌐 **Cisco Certified** | Cisco Networking Academy | ✅ Certified |
 
-</div>
-
 ---
 
 ## `> projects --featured`
-
-<div align="center">
 
 | 📁 Project | 🛠️ Stack | 📄 Description | 🏷️ Type |
 |:---|:---|:---|:---:|
 | 🚀 **iSTART** | UI/UX, ERD, Docs | Complete design & documentation system for a government-affiliated initiative | `DOST` |
 | 🎓 **COACH** | Full Stack, DB, Frontend | Mentoring platform with backend logic, database structure & research docs | `Capstone` |
-
-</div>
 
 ---
 
