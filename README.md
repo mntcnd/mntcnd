@@ -71,7 +71,7 @@ I blend creativity with logic to deliver digital solutions that are not only bea
 
 ![Mikaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mntcnd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=C39BD3&icon_color=9B59B6&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=C39BD3&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mntcnd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=C39BD3&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mntcnd&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9B59B6&fire=C39BD3&currStreakLabel=ffffff)
 
