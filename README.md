@@ -48,7 +48,7 @@ that are not only beautiful — but also effective.
 |:---:|:---|:---:|:---:|
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,,css,,js,,java,,php,,cs,,mysql&theme=dark)](https://skillicons.dev) | `Frontend / Backend` | *Web Development* |
 | **Dev Tools** | [![Dev Tools](https://skillicons.dev/icons?i=visualstudio,,vscode,,github,,azure,,,,,,&theme=dark)](https://skillicons.dev) | `IDE / DevOps` | *Development* |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="38"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.readmecodegen.com/api/social-icon?name=canva&size=38&bg=%23374151&link=" width="38"/> | `UI / UX / Docs` | *Design & Documentation* |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.readmecodegen.com/api/social-icon?name=canva&size=30&bg=%23374151&link=" width="30"/> | `UI / UX / Docs` | *Design & Documentation* |
 | **Productivity** | ![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&size=38&bg=%23374151&link=) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![google](https://www.readmecodegen.com/api/social-icon?name=google&size=38&bg=%23374151&link=&color=%2310b981) | `Office / Workspace` | *Productivity* |
 
 ---
